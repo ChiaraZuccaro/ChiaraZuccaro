@@ -58,17 +58,6 @@ Currently contributing to **[OPIS-Manager](https://github.com/UNICT-DMI/OPIS-Man
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ChiaraZuccaro&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiaraZuccaro&layout=compact&theme=default&hide_border=true&hide_title=true" />
-
-</div>
-
----
-
 ### Let's connect
 
 <a href="https://www.linkedin.com/in/chiara-zuccaro">
