@@ -2,10 +2,10 @@
 
 ### About me
 
-Software developer focused on **Angular**-based web applications — B2B and B2C.  
+Software developer focused on **Angular**-based web applications, B2B and B2C.  
 I work across the full development lifecycle: from design to implementation, debugging to refactoring, always with an eye on code quality and maintainability.
 
-Pragmatic mindset, strong attention to detail, autonomous by nature — and always up for a good technical discussion.  
+Pragmatic mindset, strong attention to detail, autonomous by nature but always up for a good technical discussion.  
 Currently contributing to **[OPIS-Manager](https://github.com/UNICT-DMI/OPIS-Manager)** — a data visualization tool for academic survey results.
 
 ---
