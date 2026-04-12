@@ -6,7 +6,7 @@ Software developer focused on **Angular**-based web applications, B2B and B2C.
 I work across the full development lifecycle: from design to implementation, debugging to refactoring, always with an eye on code quality and maintainability.
 
 Pragmatic mindset, strong attention to detail, autonomous by nature but always up for a good technical discussion.  
-Currently contributing to **[OPIS-Manager](https://github.com/UNICT-DMI/OPIS-Manager)** — a data visualization tool for academic survey results.
+Currently contributing to **[OPIS-Manager](https://github.com/UNICT-DMI/OPIS-Manager)**, a data visualization tool for academic survey results.
 
 ---
 
@@ -52,9 +52,9 @@ Currently contributing to **[OPIS-Manager](https://github.com/UNICT-DMI/OPIS-Man
 | Project | Description |
 |---|---|
 | [**OPIS-Manager**](https://github.com/UNICT-DMI/OPIS-Manager) *(WIP)* | Data visualization tool for OPIS academic survey results |
-| [**portfolio**](https://github.com/ChiaraZuccaro/portfolio) *(WIP)* | Personal 3D portfolio |
+| [**3D Portfolio**](https://portfolio-3d-psi-seven.vercel.app/en) [private_repo] *(WIP)* | Personal 3D portfolio |
 | [**trackly**](https://github.com/ChiaraZuccaro/trackly) + [**trackly-be**](https://github.com/ChiaraZuccaro/trackly-be) *(WIP)* | Manage your business and finances with ease — full stack finance tracker |
-| [**quotes**](https://github.com/ChiaraZuccaro/quotes) + [**quotes-proxy**](https://github.com/ChiaraZuccaro/quotes-proxy) *(WIP)* | Quotes app with a dedicated proxy service |
+| [**quotes**](https://github.com/ChiaraZuccaro/quotes) + [**quotes-proxy**](https://github.com/ChiaraZuccaro/quotes-proxy) | Quotes app with a dedicated proxy service |
 
 ---
 
