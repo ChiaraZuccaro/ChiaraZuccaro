@@ -53,7 +53,7 @@ Currently contributing to **[OPIS-Manager](https://github.com/UNICT-DMI/OPIS-Man
 |---|---|
 | [**OPIS-Manager**](https://github.com/UNICT-DMI/OPIS-Manager) *(WIP)* | Data visualization tool for OPIS academic survey results |
 | [**3D Portfolio**](https://portfolio-3d-psi-seven.vercel.app/en) [private_repo] *(WIP)* | Personal 3D portfolio |
-| [**trackly**](https://github.com/ChiaraZuccaro/trackly) + [**trackly-be**](https://github.com/ChiaraZuccaro/trackly-be) *(WIP)* | Manage your business and finances with ease — full stack finance tracker |
+| [**quilt-fe**](https://github.com/ChiaraZuccaro/quilt-fe) + [**quilt-be**](https://github.com/ChiaraZuccaro/quilt-be) *(WIP)* | Manage your business and finances with ease — full stack finance tracker |
 | [**quotes**](https://github.com/ChiaraZuccaro/quotes) + [**quotes-proxy**](https://github.com/ChiaraZuccaro/quotes-proxy) | Quotes app with a dedicated proxy service |
 
 ---
